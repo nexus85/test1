@@ -1,1 +1,1 @@
-print('ffff')
+print('test')
